@@ -154,7 +154,3 @@ def process_batch(image_batch):
     return results
 ```
 
-## 📄 License
-MIT Licensed
-
-[Add your license information here]
