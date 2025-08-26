@@ -153,4 +153,4 @@ def process_batch(image_batch):
         results.append(extracted_data)
     return results
 ```
-
+mit
