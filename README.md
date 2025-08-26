@@ -154,10 +154,7 @@ def process_batch(image_batch):
     return results
 ```
 
-## 🤝 Contributing
-
-This project was developed by Team AIKENS. For contributions or improvements, please follow standard Git workflow practices.
-
 ## 📄 License
+MIT Licensed
 
 [Add your license information here]
